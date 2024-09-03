@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier
+_commit: 0.6.1
+_src_path: https://github.com/NLeSC/python-template.git
+copyright_holder: Edward Chalstrey
+email: edwardchalstrey@gmail.com
+full_name: Edward Chalstrey
+github_organization: edwardchalstrey1
+keywords: Great, Amazing, Cool
+license: Apachev2
+package_name: baklava
+package_short_description: An awesome package
+template_profile: minimum
+version: 0.1.0
