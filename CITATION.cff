@@ -1,0 +1,16 @@
+# YAML 1.2
+---
+cff-version: "1.2.0"
+title: "baklava"
+authors:
+  - family-names: Chalstrey
+    given-names: Edward
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: 2024-09-03
+version: "0.1.0"
+repository-code: "https://github.com/edwardchalstrey1/baklava"
+keywords:
+  - "Great"
+  - " Amazing"
+  - " Cool"
+message: "If you use this software, please cite it using these metadata."
